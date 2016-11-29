@@ -1,8 +1,2 @@
 body {
-  background: #3bbfce; }
-  body h1 {
-    font-family: sans-serif;
-    color: white; }
-    body h1:hover {
-      background: red;
-      text-decoration: underline; }
+  background: green; }

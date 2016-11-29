@@ -10,8 +10,9 @@
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.8.8",
+    "gulp-livereload": "^3.8.1",
     "gulp-plumber": "^0.6.6",
-    "gulp-sass": "^1.2.0",
+    "gulp-sass": "^2.3.2",
     "gulp-webserver": "^0.8.3",
     "opn": "^1.0.0"
   }
